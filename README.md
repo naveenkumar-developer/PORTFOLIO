@@ -19,6 +19,6 @@ Welcome to my portfolio website! This project showcases my work as a frontend de
 - **Smooth Scroll and Animations**: Adds a polished user experience.
 
 ## Preview 📸
-
+Open the Portfolio click [here](https://naveenkumar-developer.github.io/PORTFOLIO/)
 ![portfolio img](assets/portfolio.png)
 
