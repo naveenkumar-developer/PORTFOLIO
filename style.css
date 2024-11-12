@@ -45,10 +45,16 @@ header {
 }
 
 .profile_img {
-  width: 50px;
-  height: 50px;
+  width: 70px;
+  height: 70px;
   border-radius: 50%;
+  transform: scale(1);
+  transform: transform 0.3s;
 }
+.profile_img:hover{
+  transform: scale(1.2);
+}
+
 
 .profile_title {
   font-size: 1.5rem;
